@@ -20,8 +20,6 @@ A mensagem cifrada então é transmitida pelo canal inseguro para o destinatári
 Ao chegar no destinatário, a mensagem cifrada *y* é então descriptografada por uma função *d*, que recebe como input a mensagem cifrada e a chave secreta *k*, gerando a mensagem plana original.
 ```
 
-O remetente envia uma mensagem plana X que é passada como parâmetro para uma função de encriptação *e*, que 
-
 Notas importantes:
 - O algorítimo geralmente é mantido **público** e a chama é mantida **secreta**;
 - Tanto o remetente quanto o destinatário tem acesso a chave secreta.
