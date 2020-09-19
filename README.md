@@ -1,5 +1,5 @@
 # Segurança da Informação :computer: :lock:
-Material de estudo da disciplina Segurança da Informação do curso de Sistemas de Informação da UFF.
+Resumo do conteúdo apresentado na disciplina Segurança da Informação do curso de Sistemas de Informação da UFF.
 
 ## Alguns conceitos
 * Mensagem plana: Uma mensagem definida em um formato diretamente legível;
